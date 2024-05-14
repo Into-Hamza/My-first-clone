@@ -2,7 +2,7 @@
 
 <h2>About the project</h2>
 
-  <p>A <b>My First</b> website is an originally online platform that allows users to experiance a strange/creepy feelings. The website provides an easy-to-use interface for searching, finding from a wide selection of videos and audios that vary.</p>
+  <p><b>My First</b> website is an originally online platform that allows users to experiance a strange/creepy feelings. The website provides an easy-to-use interface for searching, finding from a wide selection of videos and audios that vary.</p>
 
 👉 Live Demo: <a href='https://lomando.com/'>Lomandoweb</a>
 
